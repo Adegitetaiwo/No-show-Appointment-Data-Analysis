@@ -1,0 +1,6 @@
+Reference List
+
+1. Udacity Curated Dataset, https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf
+2. Kaggle, https://www.kaggle.com/datasets/joniarroba/noshowappointments
+3. Statistics Canada, https://www.statcan.gc.ca/en/concepts/definitions/age2
+4. Pandas Documentations, https://pandas.pydata.org/docs/reference/frame.html
